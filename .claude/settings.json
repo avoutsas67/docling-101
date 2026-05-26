@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(ls:*)",
+      "Bash(wc:*)",
+      "Bash(find:*)",
+      "Bash(mkdir:*)",
+      "Read(/tmp/docling-txt/*)",
+      "Read(/Users/achilleas.voutsas/Development/sandbox/python/docling-101/**)",
+      "Write(/Users/achilleas.voutsas/Development/sandbox/python/docling-101/documents/markdown-by-claude/*)"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+# PDF extraction
+pdfplumber>=0.11
+
+# Markdown parsing
+markdown-it-py>=3.0
+
+# Text similarity
+sentence-transformers>=3.0
+rouge-score>=0.1
+
+# Table comparison (TEDS)
+apted>=1.0
+
+# ML runtime
+torch>=2.0
+
+# CLI
+click>=8.0
+
+# Reporting
+rich>=13.0
+pandas>=2.0
